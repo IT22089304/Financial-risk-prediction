@@ -47,15 +47,15 @@ We built an intelligent prediction model that classifies the financial risk leve
 ## 🧪 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/financial-risk-prediction.git
+   git clone https://github.com/IT22089304/financial-risk-prediction.git
 
-2. Navigate into the project folder:
+3. Navigate into the project folder:
    cd financial-risk-prediction
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
-4. Run the prediction:
+5. Run the prediction:
    python risk_predictor.py --input sample_input.csv
 
 *Or test it via Jupyter Notebook or the optional API.*
